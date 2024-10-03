@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'VampiroOne-Regular';
+  src: url(./VampiroOne-Regular.eot);
+  src: url(./VampiroOne-Regular.eot?#iefix) format('embedded-opentype'),
+       url(./VampiroOne-Regular.otf) format('otf'),
+       url(./VampiroOne-Regular.svg#VampiroOne-Regular) format('svg'),
+       url(./VampiroOne-Regular.ttf) format('truetype'),
+       url(./VampiroOne-Regular.woff) format('woff'),
+       url(./VampiroOne-Regular.woff2) format('woff2');
+}
